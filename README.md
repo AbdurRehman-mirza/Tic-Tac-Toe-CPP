@@ -9,7 +9,7 @@ This project was created to practice basic programming concepts and logic buildi
 - Input validation 
 - Win and draw detection
 
-##  How to RUn
+##  How to Run
 1. Open terminal in the project folder 
 2. Compile the code: 
    ```bash
